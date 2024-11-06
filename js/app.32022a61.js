@@ -16185,9 +16185,9 @@
                         "data-aos": "fade-up",
                         "data-aos-delay": "100"
                     }
-                }, [t._v(" Hi there, I am‍ "), e("br"), e("span", {
+                }, [t._v(" Hi there, We are"), e("br"), e("span", {
                     staticClass: "theme-gradient"
-                }, [t._v("Liam Noah!")])]), e("p", {
+                }, [t._v("DOMSEC!")])]), e("p", {
                     staticClass: "description",
                     attrs: {
                         "data-aos": "fade-up",
